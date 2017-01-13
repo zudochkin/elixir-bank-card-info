@@ -25,6 +25,6 @@ sub_brand: "Visa Plus"}}
 ```
 
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
+and published on [HexDocs](https://hexdocs.pm). The docs can
 be found at [https://hexdocs.pm/bank_card_info](https://hexdocs.pm/bank_card_info).
 
