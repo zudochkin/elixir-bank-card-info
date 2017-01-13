@@ -1,4 +1,5 @@
 # BankCardInfo
+[![Build Status](https://travis-ci.org/vredniy/elixir-bank-card-info.svg?branch=master)](https://travis-ci.org/vredniy/elixir-bank-card-info) [![Hex.pm Version](https://img.shields.io/hexpm/v/bank_card_info.svg?maxAge=900000)](https://hex.pm/packages/bank_card_info) [![Documentation](https://img.shields.io/badge/docs-latest-blue.svg)](https://hexdocs.pm/bank_card_info/)
 
 Get brand, card type and country by first 6 digits of a bank card.
 
