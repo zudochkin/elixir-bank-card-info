@@ -6,7 +6,7 @@ defmodule BankCardInfo.Mixfile do
 
   def project do
     [app: :bank_card_info,
-     version: "0.0.2",
+     version: "1.0.0",
      description: "Get brand, card type and country by first digits of a bank card.",
      package: %{
        files: [
@@ -33,9 +33,9 @@ defmodule BankCardInfo.Mixfile do
 
   defp deps do
     [
-      {:httpotion, "~> 3.0.2"},
-      {:poison, "~> 3.0"},
-      {:ex_doc, "~> 0.14", only: :dev}
+      {:httpotion, "~> 3.0.3"},
+      {:poison, "~> 3.1"},
+      {:ex_doc, "~> 0.16.2", only: :dev, runtime: false}
     ]
   end
 end
