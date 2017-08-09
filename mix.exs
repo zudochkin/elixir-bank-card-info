@@ -6,8 +6,8 @@ defmodule BankCardInfo.Mixfile do
 
   def project do
     [app: :bank_card_info,
-     version: "0.0.1",
-     description: "Get brand, card type and country by first 6 digits of a bank card.",
+     version: "0.0.2",
+     description: "Get brand, card type and country by first digits of a bank card.",
      package: %{
        files: [
          "lib",
